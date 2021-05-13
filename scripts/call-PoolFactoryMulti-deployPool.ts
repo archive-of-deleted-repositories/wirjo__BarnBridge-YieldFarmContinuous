@@ -2,7 +2,7 @@ import { contractAt } from '../test/helpers/helpers';
 import { PoolFactoryMulti } from '../typechain';
 import { BigNumber } from 'ethers';
 
-const factoryAddr = '0xB3BB48D48Ac24cC46d880BD825ac90E1ce879CdC';
+const factoryAddr = '0x45785bbdb31587dC206F6FE58e2DcFaE71ac40a1';
 
 const owner = '0xbbbbbbf2e986C085bF79d44BaCFA791C92b71fe8';
 const poolToken = '***REMOVED***';
